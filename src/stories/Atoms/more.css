@@ -1,0 +1,16 @@
+.storybook-button--primary {
+    color: white;
+    background-color: #1ea7fd;
+  }
+  .storybook-button--secondary {
+    color: #333;
+    background-color: transparent;
+    box-shadow: rgba(0, 0, 0, 0.15) 0px 0px 0px 1px inset;
+
+  }
+  svg:not(:root).svg-inline--fa {
+    overflow: visible;
+}
+.svg-inline--fa.fa-w-14 {
+  width: 0.875em;
+}
